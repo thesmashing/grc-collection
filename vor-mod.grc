@@ -119,10 +119,10 @@
     </param>
   </block>
   <block>
-    <key>gr_multiply_const_vxx</key>
+    <key>blocks_multiply_const_vxx</key>
     <param>
       <key>id</key>
-      <value>gr_multiply_const_vxx_2</value>
+      <value>blocks_multiply_const_vxx_2</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -150,10 +150,10 @@
     </param>
   </block>
   <block>
-    <key>gr_multiply_const_vxx</key>
+    <key>blocks_multiply_const_vxx</key>
     <param>
       <key>id</key>
-      <value>gr_multiply_const_vxx_1</value>
+      <value>blocks_multiply_const_vxx_1</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -181,10 +181,10 @@
     </param>
   </block>
   <block>
-    <key>gr_sig_source_x</key>
+    <key>analog_sig_source_x</key>
     <param>
       <key>id</key>
-      <value>gr_sig_source_x_3</value>
+      <value>analog_sig_source_x_3</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -200,7 +200,7 @@
     </param>
     <param>
       <key>waveform</key>
-      <value>gr.GR_COS_WAVE</value>
+      <value>analog.GR_COS_WAVE</value>
     </param>
     <param>
       <key>freq</key>
@@ -224,10 +224,10 @@
     </param>
   </block>
   <block>
-    <key>gr_multiply_xx</key>
+    <key>blocks_multiply_xx</key>
     <param>
       <key>id</key>
-      <value>gr_multiply_xx_1</value>
+      <value>blocks_multiply_xx_1</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -255,10 +255,10 @@
     </param>
   </block>
   <block>
-    <key>gr_repeat</key>
+    <key>blocks_repeat</key>
     <param>
       <key>id</key>
-      <value>gr_repeat_0</value>
+      <value>blocks_repeat_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -286,10 +286,10 @@
     </param>
   </block>
   <block>
-    <key>gr_interleaved_short_to_complex</key>
+    <key>blocks_interleaved_short_to_complex</key>
     <param>
       <key>id</key>
-      <value>gr_interleaved_short_to_complex_0</value>
+      <value>blocks_interleaved_short_to_complex_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -305,10 +305,10 @@
     </param>
   </block>
   <block>
-    <key>gr_throttle</key>
+    <key>blocks_throttle</key>
     <param>
       <key>id</key>
-      <value>gr_throttle_0</value>
+      <value>blocks_throttle_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -336,10 +336,10 @@
     </param>
   </block>
   <block>
-    <key>random_source_x</key>
+    <key>analog_random_source_x</key>
     <param>
       <key>id</key>
-      <value>random_source_x_0</value>
+      <value>analog_random_source_x_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -375,10 +375,10 @@
     </param>
   </block>
   <block>
-    <key>gr_multiply_const_vxx</key>
+    <key>blocks_multiply_const_vxx</key>
     <param>
       <key>id</key>
-      <value>gr_multiply_const_vxx_0</value>
+      <value>blocks_multiply_const_vxx_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -406,10 +406,10 @@
     </param>
   </block>
   <block>
-    <key>gr_sig_source_x</key>
+    <key>analog_sig_source_x</key>
     <param>
       <key>id</key>
-      <value>gr_sig_source_x_2</value>
+      <value>analog_sig_source_x_2</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -425,7 +425,7 @@
     </param>
     <param>
       <key>waveform</key>
-      <value>gr.GR_COS_WAVE</value>
+      <value>analog.GR_COS_WAVE</value>
     </param>
     <param>
       <key>freq</key>
@@ -449,10 +449,10 @@
     </param>
   </block>
   <block>
-    <key>gr_multiply_xx</key>
+    <key>blocks_multiply_xx</key>
     <param>
       <key>id</key>
-      <value>gr_multiply_xx_0</value>
+      <value>blocks_multiply_xx_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -480,10 +480,10 @@
     </param>
   </block>
   <block>
-    <key>gr_sig_source_x</key>
+    <key>analog_sig_source_x</key>
     <param>
       <key>id</key>
-      <value>gr_sig_source_x_0</value>
+      <value>analog_sig_source_x_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -499,7 +499,7 @@
     </param>
     <param>
       <key>waveform</key>
-      <value>gr.GR_COS_WAVE</value>
+      <value>analog.GR_COS_WAVE</value>
     </param>
     <param>
       <key>freq</key>
@@ -523,10 +523,10 @@
     </param>
   </block>
   <block>
-    <key>gr_sig_source_x</key>
+    <key>analog_sig_source_x</key>
     <param>
       <key>id</key>
-      <value>gr_sig_source_x_1</value>
+      <value>analog_sig_source_x_1</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -542,7 +542,7 @@
     </param>
     <param>
       <key>waveform</key>
-      <value>gr.GR_COS_WAVE</value>
+      <value>analog.GR_COS_WAVE</value>
     </param>
     <param>
       <key>freq</key>
@@ -566,10 +566,10 @@
     </param>
   </block>
   <block>
-    <key>gr_add_xx</key>
+    <key>blocks_add_xx</key>
     <param>
       <key>id</key>
-      <value>gr_add_xx_0</value>
+      <value>blocks_add_xx_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -597,10 +597,10 @@
     </param>
   </block>
   <block>
-    <key>blks2_rational_resampler_xxx</key>
+    <key>rational_resampler_xxx</key>
     <param>
       <key>id</key>
-      <value>blks2_rational_resampler_xxx_0</value>
+      <value>rational_resampler_xxx_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -636,10 +636,10 @@
     </param>
   </block>
   <block>
-    <key>const_source_x</key>
+    <key>analog_const_source_x</key>
     <param>
       <key>id</key>
-      <value>const_source_x_0</value>
+      <value>analog_const_source_x_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -663,10 +663,10 @@
     </param>
   </block>
   <block>
-    <key>gr_frequency_modulator_fc</key>
+    <key>analog_frequency_modulator_fc</key>
     <param>
       <key>id</key>
-      <value>gr_frequency_modulator_fc_0</value>
+      <value>analog_frequency_modulator_fc_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -686,10 +686,10 @@
     </param>
   </block>
   <block>
-    <key>gr_add_xx</key>
+    <key>blocks_add_xx</key>
     <param>
       <key>id</key>
-      <value>gr_add_xx_1</value>
+      <value>blocks_add_xx_1</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -717,10 +717,10 @@
     </param>
   </block>
   <block>
-    <key>gr_throttle</key>
+    <key>blocks_throttle</key>
     <param>
       <key>id</key>
-      <value>gr_throttle_2</value>
+      <value>blocks_throttle_2</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -922,10 +922,10 @@
     </param>
   </block>
   <block>
-    <key>gr_complex_to_float</key>
+    <key>blocks_complex_to_float</key>
     <param>
       <key>id</key>
-      <value>gr_complex_to_float_0</value>
+      <value>blocks_complex_to_float_0</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -980,140 +980,140 @@
     </param>
   </block>
   <connection>
-    <source_block_id>gr_add_xx_0</source_block_id>
-    <sink_block_id>gr_throttle_2</sink_block_id>
+    <source_block_id>blocks_add_xx_0</source_block_id>
+    <sink_block_id>blocks_throttle_2</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_throttle_2</source_block_id>
+    <source_block_id>blocks_throttle_2</source_block_id>
     <sink_block_id>wxgui_waterfallsink2_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_throttle_2</source_block_id>
+    <source_block_id>blocks_throttle_2</source_block_id>
     <sink_block_id>wxgui_fftsink2_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_complex_to_float_0</source_block_id>
+    <source_block_id>blocks_complex_to_float_0</source_block_id>
     <sink_block_id>audio_sink_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_complex_to_float_0</source_block_id>
+    <source_block_id>blocks_complex_to_float_0</source_block_id>
     <sink_block_id>audio_sink_0</sink_block_id>
     <source_key>1</source_key>
     <sink_key>1</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_throttle_2</source_block_id>
-    <sink_block_id>blks2_rational_resampler_xxx_0</sink_block_id>
+    <source_block_id>blocks_throttle_2</source_block_id>
+    <sink_block_id>rational_resampler_xxx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>blks2_rational_resampler_xxx_0</source_block_id>
-    <sink_block_id>gr_complex_to_float_0</sink_block_id>
+    <source_block_id>rational_resampler_xxx_0</source_block_id>
+    <sink_block_id>blocks_complex_to_float_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_multiply_xx_0</source_block_id>
-    <sink_block_id>gr_multiply_const_vxx_2</sink_block_id>
+    <source_block_id>blocks_multiply_xx_0</source_block_id>
+    <sink_block_id>blocks_multiply_const_vxx_2</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_add_xx_1</source_block_id>
-    <sink_block_id>gr_multiply_xx_0</sink_block_id>
+    <source_block_id>blocks_add_xx_1</source_block_id>
+    <sink_block_id>blocks_multiply_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_sig_source_x_2</source_block_id>
-    <sink_block_id>gr_multiply_xx_0</sink_block_id>
+    <source_block_id>analog_sig_source_x_2</source_block_id>
+    <sink_block_id>blocks_multiply_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>1</sink_key>
   </connection>
   <connection>
-    <source_block_id>const_source_x_0</source_block_id>
-    <sink_block_id>gr_add_xx_1</sink_block_id>
+    <source_block_id>analog_const_source_x_0</source_block_id>
+    <sink_block_id>blocks_add_xx_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>1</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_frequency_modulator_fc_0</source_block_id>
-    <sink_block_id>gr_add_xx_1</sink_block_id>
+    <source_block_id>analog_frequency_modulator_fc_0</source_block_id>
+    <sink_block_id>blocks_add_xx_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_sig_source_x_1</source_block_id>
-    <sink_block_id>gr_frequency_modulator_fc_0</sink_block_id>
+    <source_block_id>analog_sig_source_x_1</source_block_id>
+    <sink_block_id>analog_frequency_modulator_fc_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_multiply_const_vxx_2</source_block_id>
-    <sink_block_id>gr_add_xx_0</sink_block_id>
+    <source_block_id>blocks_multiply_const_vxx_2</source_block_id>
+    <sink_block_id>blocks_add_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>2</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_sig_source_x_3</source_block_id>
-    <sink_block_id>gr_multiply_xx_1</sink_block_id>
+    <source_block_id>analog_sig_source_x_3</source_block_id>
+    <sink_block_id>blocks_multiply_xx_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>1</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_interleaved_short_to_complex_0</source_block_id>
-    <sink_block_id>gr_repeat_0</sink_block_id>
+    <source_block_id>blocks_interleaved_short_to_complex_0</source_block_id>
+    <sink_block_id>blocks_repeat_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_throttle_0</source_block_id>
-    <sink_block_id>gr_interleaved_short_to_complex_0</sink_block_id>
+    <source_block_id>blocks_throttle_0</source_block_id>
+    <sink_block_id>blocks_interleaved_short_to_complex_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_multiply_xx_1</source_block_id>
-    <sink_block_id>gr_multiply_const_vxx_1</sink_block_id>
+    <source_block_id>blocks_multiply_xx_1</source_block_id>
+    <sink_block_id>blocks_multiply_const_vxx_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_repeat_0</source_block_id>
-    <sink_block_id>gr_multiply_xx_1</sink_block_id>
+    <source_block_id>blocks_repeat_0</source_block_id>
+    <sink_block_id>blocks_multiply_xx_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>random_source_x_0</source_block_id>
-    <sink_block_id>gr_throttle_0</sink_block_id>
+    <source_block_id>analog_random_source_x_0</source_block_id>
+    <sink_block_id>blocks_throttle_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_sig_source_x_0</source_block_id>
-    <sink_block_id>gr_multiply_const_vxx_0</sink_block_id>
+    <source_block_id>analog_sig_source_x_0</source_block_id>
+    <sink_block_id>blocks_multiply_const_vxx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_multiply_const_vxx_1</source_block_id>
-    <sink_block_id>gr_add_xx_0</sink_block_id>
+    <source_block_id>blocks_multiply_const_vxx_1</source_block_id>
+    <sink_block_id>blocks_add_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>1</sink_key>
   </connection>
   <connection>
-    <source_block_id>gr_multiply_const_vxx_0</source_block_id>
-    <sink_block_id>gr_add_xx_0</sink_block_id>
+    <source_block_id>blocks_multiply_const_vxx_0</source_block_id>
+    <sink_block_id>blocks_add_xx_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
